@@ -1,11 +1,25 @@
-## Welcome to GitHub Pages
+## Bem vindo a página oficial da Tektronix Lda.
 
-You can use the [editor on GitHub](https://github.com/socrateselton/tektronix/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia, especificamente no desenvolvimento e implementação de soluções empresariais e domésticas [opensource](https://en.wikipedia.org/wiki/Open_source) que auxiliam na sua produtividade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+#### Principais Perguntas:
+'''
+##### O que a Tektronix faz ao certo?
+A Tektronix lda
+##### O que é o servidor proxy e por que é importante para a minha empresa?
+##### O que é servidor de arquivos e porque usar?
+##### Porque o servidor de arquivos é importante para minha empresa?
+##### Porque ter o servidor de arquivos na minha casa?
+##### Eu preciso contractar um professional de TI para gerenciar a minha rede?
+##### É muito caro a implementação de um cloud na minha casa ou servidor de arquivo?
+##### É muito caro a implementação de um servidor proxy na minha casa?
+##### Eu preciso ter conhecimentos de rede para ter esses serviços?
+##### Quais são os planos da Tektronix lda para o futuro?
+##### Os meus dados estão seguros no meu servidor de arquivo ou cloud?
+##### O que eu preciso para ter um servidor de arquivos na minha empresa?
+##### O que eu preciso para ter um servidor de proxy na minha empresa?
+##### Os meus dados estão realmente seguros no meu servidor de arquivo ou cloud?
+'''
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -28,10 +42,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/socrateselton/tektronix/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contactos
+https://t.me/TektronixLda
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
++258 845109456 	
++258 875109456
+
