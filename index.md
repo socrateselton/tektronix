@@ -5,10 +5,10 @@ A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia de sof
 
 #### Principais Perguntas:
 
-##### O que a Tektronix faz ao certo?
+ O que a Tektronix faz ao certo?
 A Tektronix lda desenvolve e fornece serviços e soluçoes relacionados a redes dos computadores.
 
-##### O que é o servidor proxy e por que é importante para a minha empresa?
+ O que é o servidor proxy e por que é importante para a minha empresa?
 Um servidor proxy nada mais é do que um computador configurado adequadamente para fornecer serviços de roteamento e filtragem de conteudo na internet. se está cansado de ter funcionarios da sua empresa ou colegas entretidos na hora do trabalho em redes sociais como o facebook, instagram, youtube e outras, O servidor proxy é a solução para a sua empresa.
 
 ##### O que é o servidor de arquivos e para que serve?
