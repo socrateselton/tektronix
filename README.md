@@ -5,5 +5,6 @@
 
 #### **Serviços:**
 -  ##### 	Armazenamento em nuvem.
+-  ##### 	Servidor de arquivos.
 -  ##### 	Servidor Proxy.
 -  ##### 	Servidor Web.
