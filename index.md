@@ -4,7 +4,7 @@ A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia de sof
 
 
 #### Principais Perguntas:
-```
+
 ##### O que a Tektronix faz ao certo?
 A Tektronix lda desenvolve e fornece serviços e soluçoes relacionados a redes dos computadores.
 
@@ -43,7 +43,7 @@ O servidor proxy é importante para manter a sua casa ou empresa protegida, de a
 O outro motivo é a economia de largura de banda e aumento significativo na velocidade de internet, ja que o servidor proxy grava as informações dos sites visitados e distribui para os usuarios que tentam acessar o mesmo site.
 ##### Eu preciso pagar o valor mensal para ter o servidor proxy ou de arquivos?
 Não, voçé nao precisa pagar nenhum valor mensal para ter esses siços, voçé so precisa pagar uma vez no momento da instalação.
-```
+
 
 
 ### Contactos
